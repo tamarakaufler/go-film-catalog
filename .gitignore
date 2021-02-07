@@ -1,0 +1,6 @@
+*.pprof
+*.swo
+*.swp
+
+*.bak
+*.orig
